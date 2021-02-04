@@ -1,0 +1,22 @@
+{
+  "name": "t21",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "ssss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arashstk/test23.git"
+  },
+  "keywords": [
+    "ddsd"
+  ],
+  "author": "a",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arashstk/test23/issues"
+  },
+  "homepage": "https://github.com/arashstk/test23#readme"
+}
